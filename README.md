@@ -10,6 +10,8 @@ Der aktuelle Rabatt-Code lautet: FRANNECK_JAN_2021
 
 - C Programmieren (zum aktuellen Bestpreis):
 https://www.udemy.com/course/c-programmierung-praxisnaher-komplettkurs-fur-einsteiger/?couponCode=FRANNECK_JAN_2021
+- C Datenstrukturen und Algorithmen (zum aktuellen Bestpreis):
+https://www.udemy.com/course/algorithmen-und-datenstrukturen-in-c/?couponCode=FRANNECK_JAN_2021
 - C++ Programmieren (zum aktuellen Bestpreis):
 https://www.udemy.com/course/der-komplettkurs-zur-modernen-c-programmierung/?couponCode=FRANNECK_JAN_2021
 - C++ Projekte Fortgeschrittene (zum aktuellen Bestpreis):
