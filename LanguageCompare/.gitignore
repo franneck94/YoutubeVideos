@@ -1,0 +1,6 @@
+build/
+zig-cache/
+target/
+.vs/
+bin/
+obj/

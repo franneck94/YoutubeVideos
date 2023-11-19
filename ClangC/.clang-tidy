@@ -1,0 +1,7 @@
+---
+Checks: '-*,
+clang-*,
+bugprone-*'
+AnalyzeTemporaryDtors: false
+FormatStyle: Microsoft
+...

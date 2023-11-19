@@ -1,0 +1,63 @@
+{
+    "version": "2.0.0",
+    "inputs": [
+        {
+            "type": "pickString",
+            "id": "Message",
+            "options": [
+                "The dice rolled",
+                "You rolled",
+            ],
+            "default": "The dice rolled",
+            "description": "Console Message."
+        },
+        {
+            "type": "promptString",
+            "id": "EyeNumber",
+            "description": "Dice Number",
+            "default": "6",
+        }
+    ],
+    "tasks": [
+        {
+            "label": "Roll a dice",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/test.py",
+                "--number_users=${config:terminal.integrated.env.windows.DEFAULT_EYES}"],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Roll a N-sided dice",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/test.py",
+                "--number_users=${input:EyeNumber}"],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "User-defined dice",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/test.py",
+                "--number_users=\"${input:EyeNumber}\"", 
+                "--message=\"${input:Message}\""],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

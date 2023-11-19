@@ -1,0 +1,40 @@
+{
+    // Editor settings
+    "editor.fontSize": 25,
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.fontSize": 22,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // Windows only settings
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    // Anaconda / Python settings
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "python.dataScience.askForKernelRestart": false,
+    // Python Docstring settings
+    "autoDocstring.docstringFormat": "numpy", //"google",
+    "autoDocstring.generateDocstringOnEnter": true,
+    "autoDocstring.includeExtendedSummary": false,
+    // Git settings
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+
+    // Local Python Unittest settings
+    "python.jediEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true
+}
