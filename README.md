@@ -10,63 +10,63 @@ Dieses Repository ist den Code meiner Youtube Videos.
 - [Podcast](https://open.spotify.com/show/04MnQm6hVctf5z5I3g7otu)
 - [Patreon](https://patreon.com/user?u=11874131)
 
-Aktuelle Udemy Kurse im Rabatt: **FRANNECK_NOV_2023**  
+Aktuelle Udemy Kurse im Rabatt: **FRANNECK_23_BF**  
 Hinweis: Die Preise sind so niedrig eingestellt, wie es mir Udemy erlaub.  
 Den Link könnt ihr auch an eure Freunde weiterleiten :)
 
 ## Kurse als Vorberietung zum Studium/Ausbildung
 
 - Dein Einstieg in die Welt der Informatik:
-[Link](https://www.udemy.com/course/dein-einstieg-in-die-welt-der-informatik/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/dein-einstieg-in-die-welt-der-informatik/?couponCode=FRANNECK_23_BF)
 
 ## Informatik Einsteiger Kurse (fürs 1. Semester als Beispiel)
 
 - C Komplettkurs: Praxisnahe Programmierung für C Einsteiger:
-[Link](https://www.udemy.com/course/c-programmierung-praxisnaher-komplettkurs-fur-einsteiger/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/c-programmierung-praxisnaher-komplettkurs-fur-einsteiger/?couponCode=FRANNECK_23_BF)
   - C Übungen: Praxisnahe Programmierung für C Einsteiger:
-[Link](https://www.udemy.com/course/c-ubungen-praxisnahe-programmierung-fur-anfanger/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/c-ubungen-praxisnahe-programmierung-fur-anfanger/?couponCode=FRANNECK_23_BF)
 
 - C++ Komplettkurs: Praxisnahe und Moderne C++ Programmierung:
-[Link](https://www.udemy.com/course/der-komplettkurs-zur-modernen-c-programmierung/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/der-komplettkurs-zur-modernen-c-programmierung/?couponCode=FRANNECK_23_BF)
   - C++ Übungen: Praxisnahe und Moderne C++ Programmierung:
-[Link](https://www.udemy.com/course/c-ubungen-praxisnahe-und-moderne-c-programmierung/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/c-ubungen-praxisnahe-und-moderne-c-programmierung/?couponCode=FRANNECK_23_BF)
 
 - Schnelleinstieg in die Python Programmierung:
-[Link](https://www.udemy.com/course/schnelleinstieg-in-die-python-programmierung-fur-anfanger/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/schnelleinstieg-in-die-python-programmierung-fur-anfanger/?couponCode=FRANNECK_23_BF)
 
 ## Weiterführende Kurse (ab dem 2. Semester als Beispiel)
 
 - Datenstrukturen und Algorithmen in C/C++:
-[Link](https://www.udemy.com/course/algorithmen-und-datenstrukturen-in-c/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/algorithmen-und-datenstrukturen-in-c/?couponCode=FRANNECK_23_BF)
 
 - Data Science Tools mit Python:
-[Link](https://www.udemy.com/course/data-science-tools-mit-python-numpy-pandas-matplotlib/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/data-science-tools-mit-python-numpy-pandas-matplotlib/?couponCode=FRANNECK_23_BF)
 
 - Machine Learning mit Python:
-[Link](https://www.udemy.com/course/machine-learning-grundlagen-mit-python-inkl-ai-einfuhrung/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/machine-learning-grundlagen-mit-python-inkl-ai-einfuhrung/?couponCode=FRANNECK_23_BF)
 
 - Deep Learning mit TensorFlow 2:
-[Link](https://www.udemy.com/course/deep-learning-grundlagen-neuronale-netzwerke-mit-tensorflow/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/deep-learning-grundlagen-neuronale-netzwerke-mit-tensorflow/?couponCode=FRANNECK_23_BF)
 
 ## Weiterführende Themen (ab dem 3. Semester als Beispiel)
 
 - Generative Neuronale Netze:
-[Link](https://www.udemy.com/course/deep-learning-und-ai-generative-neural-networks-mit-python/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/deep-learning-und-ai-generative-neural-networks-mit-python/?couponCode=FRANNECK_23_BF)
 
 - Artificial Intelligence:
-[Link](https://www.udemy.com/course/artificial-intelligence-und-reinforcement-learning-in-python/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/artificial-intelligence-und-reinforcement-learning-in-python/?couponCode=FRANNECK_23_BF)
 
 - C++ Projekte Für Fortgeschrittene Cmake Tests Und Tooling
-[Link](https://www.udemy.com/course/c-projekte-fur-fortgeschrittene-cmake-tests-und-tooling/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/c-projekte-fur-fortgeschrittene-cmake-tests-und-tooling/?couponCode=FRANNECK_23_BF)
 
 - Interaktive GUI mit C++ und ImGui: Praktische Beispiele
-[Link](https://www.udemy.com/course/interaktive-gui-mit-c-und-imgui-praktische-beispiele/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/interaktive-gui-mit-c-und-imgui-praktische-beispiele/?couponCode=FRANNECK_23_BF)
 
 - Fortgeschrittene Python Programmierung:
-[Link](https://www.udemy.com/course/fortgeschrittene-python-programmierung/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/fortgeschrittene-python-programmierung/?couponCode=FRANNECK_23_BF)
 
 - Rust: Der Einstieg für Programmierer:
-[Link](https://www.udemy.com/course/rust-der-einstieg-fur-programmierer/?couponCode=FRANNECK_NOV_2023)
+[Link](https://www.udemy.com/course/rust-der-einstieg-fur-programmierer/?couponCode=FRANNECK_23_BF)
 
 ## Empfohlene Reihenfolge der C Kurse
 
