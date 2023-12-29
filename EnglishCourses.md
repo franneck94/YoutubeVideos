@@ -6,26 +6,26 @@ My socials:
 - [Udemy Profile](https://www.udemy.com/user/jan-schaffranek/)
 - [Patreon](https://patreon.com/user?u=11874131)
 
-My Udemy courses in a discount with this code: **FRANNECK_DEC_2023**  
+My Udemy courses in a discount with this code: **FRANNECK_JAN_2024**  
 Note: The prices are set as low as Udemy allows me to do it.  
 You can also forward the link to your friends :)
 
 ## My Courses
 
 - Computer Science 101 - The Magic behind the Bits and Bytes:
-[Link](https://www.udemy.com/course/computer-science-101-the-magic-behind-the-bits-and-bytes/?couponCode=FRANNECK_DEC_2023)
+[Link](https://www.udemy.com/course/computer-science-101-the-magic-behind-the-bits-and-bytes/?couponCode=FRANNECK_JAN_2024)
 
 - CMake, Tests and Tooling for C/C++ Projects:
-[Link](https://www.udemy.com/course/cmake-tests-and-tooling-for-cc-projects/?couponCode=FRANNECK_DEC_2023)
+[Link](https://www.udemy.com/course/cmake-tests-and-tooling-for-cc-projects/?couponCode=FRANNECK_JAN_2024)
 
 - Make and Makefile for C/C++ Projects:
-[Link](https://www.udemy.com/course/make-and-makefile-for-cc-projects-2022-edition/?couponCode=FRANNECK_DEC_2023)
+[Link](https://www.udemy.com/course/make-and-makefile-for-cc-projects-2022-edition/?couponCode=FRANNECK_JAN_2024)
 
 - Python: Coding Guideline, Tooling, Unit Testing and Packages:
-[Link](https://www.udemy.com/course/python-coding-guidelines-tooling-testing-and-packaging/?couponCode=FRANNECK_DEC_2023)
+[Link](https://www.udemy.com/course/python-coding-guidelines-tooling-testing-and-packaging/?couponCode=FRANNECK_JAN_2024)
 
 - Intermediate Python: Memory, Decorator, Async, Cython & more:
-[Link](https://www.udemy.com/course/intermediate-python-memory-decorator-async-cython-more/?couponCode=FRANNECK_DEC_2023)
+[Link](https://www.udemy.com/course/intermediate-python-memory-decorator-async-cython-more/?couponCode=FRANNECK_JAN_2024)
 
 - TypeScript for Beginners:
-[Link](https://www.udemy.com/course/typescript-for-beginners-u/?couponCode=FRANNECK_DEC_2023)
+[Link](https://www.udemy.com/course/typescript-for-beginners-u/?couponCode=FRANNECK_JAN_2024)
