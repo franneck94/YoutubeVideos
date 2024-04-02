@@ -1,9 +1,9 @@
 # Internet Plattformen und Udemy Kurse
 
-Dieses Repository ist den Code meiner Youtube Videos.
+Dieses Repository ist den Code meiner YouTube Videos.
 
-- [Youtube Kanal](https://www.youtube.com/user/FranneckLP)
-- [Youtube Kanal (Englisch)](https://www.youtube.com/@franneckcs3798)
+- [YouTube Kanal](https://www.youtube.com/user/FranneckLP)
+- [YouTube Kanal (Englisch)](https://www.youtube.com/@franneckcs3798)
 - [Twitch Kanal](https://www.twitch.tv/frannecklp)
 - [Discord Server](https://discord.gg/vHzfaPz62H)
 - [Udemy Profil](https://www.udemy.com/user/jan-schaffranek/)

@@ -1,8 +1,8 @@
 # My English Udemy Courses
 
-My socials: 
+My socials:
 
-- [Youtube Channel](https://www.youtube.com/@franneckcs3798)
+- [YouTube Channel](https://www.youtube.com/@franneckcs3798)
 - [Udemy Profile](https://www.udemy.com/user/jan-schaffranek/)
 - [Patreon](https://patreon.com/user?u=11874131)
 
@@ -39,6 +39,9 @@ You can also forward the link to your friends :)
 [Link](https://www.udemy.com/course/make-and-makefile-for-cc-projects-2022-edition/?couponCode=FRANNECK_APR_2024)
 
 ## CS Courses
+
+- Rust for Programmers - Coming from another language \[2024\]:
+[Link](https://www.udemy.com/course/rust-for-programmers-coming-from-another-language-2024/?couponCode=FRANNECK_APR_2024)
 
 - Computer Science 101 - The Magic behind the Bits and Bytes:
 [Link](https://www.udemy.com/course/computer-science-101-the-magic-behind-the-bits-and-bytes/?couponCode=FRANNECK_APR_2024)
